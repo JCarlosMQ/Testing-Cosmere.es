@@ -1,0 +1,439 @@
+# Page snapshot
+
+```yaml
+- text:  
+- link "State of the Sanderson 2024":
+  - /url: https://cosmere.es/state-of-the-sanderson-2024/
+- link:
+  - /url: https://cosmere.es/state-of-the-sanderson-2024/
+- 'link "Dentro de la mente de robin hobb: llevar tu villano como manto"':
+  - /url: https://cosmere.es/dentro-de-la-mente-de-robin-hobb-llevar-tu-villano-como-manto/
+- link:
+  - /url: https://cosmere.es/dentro-de-la-mente-de-robin-hobb-llevar-tu-villano-como-manto/
+- 'link "AVANCE OFICIAL – El Archivo de las Tormentas 5 – Viento y Verdad: interludios 3 y 4"':
+  - /url: https://cosmere.es/avance-oficial-el-archivo-de-las-tormentas-5-viento-y-verdad-interludios-3-y-4/
+- link:
+  - /url: https://cosmere.es/avance-oficial-el-archivo-de-las-tormentas-5-viento-y-verdad-interludios-3-y-4/
+- 'link "AVANCE OFICIAL – El Archivo de las Tormentas 5 – Viento y Verdad: capítulos 31 y 32"':
+  - /url: https://cosmere.es/avance-oficial-el-archivo-de-las-tormentas-5-viento-y-verdad-capitulos-31-y-32/
+- link:
+  - /url: https://cosmere.es/avance-oficial-el-archivo-de-las-tormentas-5-viento-y-verdad-capitulos-31-y-32/
+- banner:
+  - link "logo main":
+    - /url: https://cosmere.es/
+    - img "logo main"
+  - navigation "Top Menu":
+    - list:
+      - listitem:
+        - link "Noticias":
+          - /url: http://cosmere.es
+      - listitem:
+        - link "Guía de lectura":
+          - /url: https://cosmere.es/guia-de-lectura/
+      - listitem:
+        - link "Libros":
+          - /url: https://cosmere.es/libros-y-sagas
+      - listitem:
+        - link "Descargas":
+          - /url: https://cosmere.es/descargas/
+      - listitem:
+        - link "Wiki":
+          - /url: https://cosmere.es/wiki/
+      - listitem:
+        - link "Viento Y verdad":
+          - /url: https://cosmere.es/avances-viento-y-verdad/
+      - listitem:
+        - link "":
+          - /url: https://twitter.com/Cosmere_es
+      - listitem:
+        - link "":
+          - /url: https://www.instagram.com/cosmere_es/
+  - search:
+    - text: Buscar por_
+    - searchbox "Buscar por_"
+    - button ""
+  - link:
+    - /url: "#"
+- main:
+  - link:
+    - /url: https://cosmere.es/que-es-el-cosmere/
+  - heading "¿QUé es el cosmere?" [level=3]:
+    - link "¿QUé es el cosmere?":
+      - /url: https://cosmere.es/que-es-el-cosmere/
+  - iframe
+  - link "Orden de Lectura del Cosmere de Brandon Sanderson":
+    - /url: https://cosmere.es/orden-de-lectura-del-cosmere/
+    - img "Orden de Lectura del Cosmere de Brandon Sanderson"
+  - heading "Orden de lectura" [level=3]:
+    - link "Orden de lectura":
+      - /url: https://cosmere.es/orden-de-lectura-del-cosmere/
+  - article:
+    - link:
+      - /url: https://cosmere.es/avance-oficial-el-archivo-de-las-tormentas-5-viento-y-verdad-capitulos-29-y-30/
+    - link "Avances":
+      - /url: https://cosmere.es/category/brandon-sanderson/avances/
+    - 'heading "AVANCE OFICIAL – El Archivo de las Tormentas 5 – Viento y Verdad: capítulos 29 y 30" [level=3]':
+      - 'link "AVANCE OFICIAL – El Archivo de las Tormentas 5 – Viento y Verdad: capítulos 29 y 30"':
+        - /url: https://cosmere.es/avance-oficial-el-archivo-de-las-tormentas-5-viento-y-verdad-capitulos-29-y-30/
+    - link:
+      - /url: https://cosmere.es/avance-oficial-el-archivo-de-las-tormentas-5-viento-y-verdad-capitulos-29-y-30/
+  - article:
+    - link:
+      - /url: https://cosmere.es/avance-oficial-el-archivo-de-las-tormentas-5-viento-y-verdad-capitulos-27-y-28/
+    - link "Avances":
+      - /url: https://cosmere.es/category/brandon-sanderson/avances/
+    - 'heading "AVANCE OFICIAL – El Archivo de las Tormentas 5 – Viento y Verdad: capítulos 27 y 28" [level=3]':
+      - 'link "AVANCE OFICIAL – El Archivo de las Tormentas 5 – Viento y Verdad: capítulos 27 y 28"':
+        - /url: https://cosmere.es/avance-oficial-el-archivo-de-las-tormentas-5-viento-y-verdad-capitulos-27-y-28/
+    - link:
+      - /url: https://cosmere.es/avance-oficial-el-archivo-de-las-tormentas-5-viento-y-verdad-capitulos-27-y-28/
+  - article:
+    - link:
+      - /url: https://cosmere.es/explorando-las-conexiones-del-cosmere-en-mistborn-era-2/
+    - link "El Reino Cognitivo":
+      - /url: https://cosmere.es/category/brandon-sanderson/el-reino-cognitivo/
+    - heading "Explorando las conexiones del Cosmere en Mistborn Era 2" [level=3]:
+      - link "Explorando las conexiones del Cosmere en Mistborn Era 2":
+        - /url: https://cosmere.es/explorando-las-conexiones-del-cosmere-en-mistborn-era-2/
+    - link:
+      - /url: https://cosmere.es/explorando-las-conexiones-del-cosmere-en-mistborn-era-2/
+  - article:
+    - link:
+      - /url: https://cosmere.es/avance-oficial-el-archivo-de-las-tormentas-5-viento-y-verdad-capitulos-25-y-26/
+    - link "Avances":
+      - /url: https://cosmere.es/category/brandon-sanderson/avances/
+    - 'heading "AVANCE OFICIAL – El Archivo de las Tormentas 5 – Viento y Verdad: capítulos 25 y 26" [level=3]':
+      - 'link "AVANCE OFICIAL – El Archivo de las Tormentas 5 – Viento y Verdad: capítulos 25 y 26"':
+        - /url: https://cosmere.es/avance-oficial-el-archivo-de-las-tormentas-5-viento-y-verdad-capitulos-25-y-26/
+    - link:
+      - /url: https://cosmere.es/avance-oficial-el-archivo-de-las-tormentas-5-viento-y-verdad-capitulos-25-y-26/
+  - article:
+    - link:
+      - /url: https://cosmere.es/el-dia-claro-ya-casi-esta-aqui-todo-lo-que-necesitas-saber/
+    - link "El Reino Cognitivo":
+      - /url: https://cosmere.es/category/brandon-sanderson/el-reino-cognitivo/
+    - heading "¡El Día Claro ya casi está aquí! Todo lo que necesitas saber" [level=3]:
+      - link "¡El Día Claro ya casi está aquí! Todo lo que necesitas saber":
+        - /url: https://cosmere.es/el-dia-claro-ya-casi-esta-aqui-todo-lo-que-necesitas-saber/
+    - link:
+      - /url: https://cosmere.es/el-dia-claro-ya-casi-esta-aqui-todo-lo-que-necesitas-saber/
+  - article:
+    - link:
+      - /url: https://cosmere.es/avance-oficial-el-archivo-de-las-tormentas-5-viento-y-verdad-capitulos-23-y-24/
+    - link "Avances":
+      - /url: https://cosmere.es/category/brandon-sanderson/avances/
+    - 'heading "AVANCE OFICIAL – El Archivo de las Tormentas 5 – Viento y Verdad: capítulos 23 y 24" [level=3]':
+      - 'link "AVANCE OFICIAL – El Archivo de las Tormentas 5 – Viento y Verdad: capítulos 23 y 24"':
+        - /url: https://cosmere.es/avance-oficial-el-archivo-de-las-tormentas-5-viento-y-verdad-capitulos-23-y-24/
+    - link:
+      - /url: https://cosmere.es/avance-oficial-el-archivo-de-las-tormentas-5-viento-y-verdad-capitulos-23-y-24/
+  - link "Cargar más":
+    - /url: "#"
+  - text: 
+  - heading "E Instagram" [level=2]
+  - link "cosmere_es":
+    - /url: https://www.instagram.com/cosmere_es/
+    - heading "cosmere_es" [level=3]
+  - link "Pequeña sección en B&N de Salt Lake. No sé por":
+    - /url: https://www.instagram.com/p/DDH-AwhORC3/
+  - link "El bollito de la victoria! Paseo por la ciudad des":
+    - /url: https://www.instagram.com/p/DDH4c8Iukxs/
+  - link "Bienvenidos a la lectura de los últimos capítulo":
+    - /url: https://www.instagram.com/p/DDFQf_QOzSK/
+  - link "Con el vuelo y la.diferencia horaria no compartimo":
+    - /url: https://www.instagram.com/p/DDCtpTqOGyM/
+  - 'link "Contando las horas para que empiece #dsnx24!!! Ay"':
+    - /url: https://www.instagram.com/p/DDCPk2VuQkW/
+  - 'link "Pues ya estamos aquí!!!!! #dsnx24"':
+    - /url: https://www.instagram.com/p/DDAZWZiucjG/
+  - 'link "Y así empieza el viaje... #dsnx24 #drag"':
+    - /url: https://www.instagram.com/p/DC-zDISoGFs/
+  - link:
+    - /url: https://www.instagram.com/p/DCzUwXYth8G/
+  - link "Buenas tardes!!! Después de un pequeño susto, y":
+    - /url: https://www.instagram.com/p/DCuD6fltHyv/
+  - link "Empieza la cuenta atrás!!!! Si vas a estar en Dr":
+    - /url: https://www.instagram.com/p/DCoMaVZuaE_/
+  - link "Buenas tardes! Empieza la cuenta atrás de los úl":
+    - /url: https://www.instagram.com/p/DChNHalNfGG/
+  - link "Ni un sábado sin su CosmereCast! Ya tenemos aquí":
+    - /url: https://www.instagram.com/p/DCbq4MLN07q/
+  - link "Buenas tardes y feliz inicio de semana! Venimos co":
+    - /url: https://www.instagram.com/p/DCPMC7ItG8J/
+  - link "Buenos días! A petición popular, intentaremos p":
+    - /url: https://www.instagram.com/p/DCJZxIuOB_L/
+  - link "Ayer pudimos recoger la caja de la edición limita":
+    - /url: https://www.instagram.com/p/DCEGME6uUcP/
+  - link "Ya tenemos por aquí nuestra copia de Mistborn Dec":
+    - /url: https://www.instagram.com/p/DCB0AZtuDYM/
+  - link "Y ya tenemos aquí los nuevos capítulos de Viento":
+    - /url: https://www.instagram.com/p/DB9KEvmNrd1/
+  - link "Desvelamos el regalo exclusivo que acompaña a tod":
+    - /url: https://www.instagram.com/p/DB9GQX8tYAc/
+  - link "Ya tenemos aquí un nuevo CosmereCast! Esta semana":
+    - /url: https://www.instagram.com/p/DB4XZ3tNAfe/
+  - link "Ya tenemos aquí un nuevo artículo en el blog de":
+    - /url: https://www.instagram.com/p/DBudNzZtzTc/
+  - button "Cargar más"
+  - link "Seguir en Instagram":
+    - /url: https://www.instagram.com/cosmere_es/
+  - heading "E Twitter" [level=2]
+  - 'link "Cosmere.es Seguir La web de #brandonsanderson y el #cosmere en español! - Dónde encontrarnos: https://t.co/1oYE8lc21B - https://t.co/6PrN23FMk0 Cosmere_es"':
+    - /url: https://twitter.com/Cosmere_es/
+    - paragraph:
+      - text: Cosmere.es
+      - img
+      - text: Seguir
+    - paragraph: "La web de #brandonsanderson y el #cosmere en español! - Dónde encontrarnos: https://t.co/1oYE8lc21B - https://t.co/6PrN23FMk0"
+    - img "Cosmere_es"
+  - link "cosmere_es":
+    - /url: https://twitter.com/cosmere_es
+    - img "cosmere_es"
+  - link "Cosmere.es":
+    - /url: https://twitter.com/cosmere_es
+  - link "@cosmere_es":
+    - /url: https://twitter.com/cosmere_es
+  - text: ·
+  - link "1 Oct":
+    - /url: https://twitter.com/cosmere_es/status/1973451224507883641
+  - img
+  - paragraph: "Siempre que Brandon lanza una campaña surgen dudas porque no la necesita para lanzar el libro, han explicado los motivos varias veces: Recordad que el libro saldrá más adelante en librerías, si no queréis participar o los extras, no tenéis por qué hacerlo!"
+  - link "Cosmere 16 - Podcast - Noticias @Cosmere16Pod Se confirma el Kickstarter del libro de cuentos de Hoid para marzo de 2026":
+    - /url: https://twitter.com/Cosmere16Pod/status/1972041248228991422
+    - text: Cosmere 16 - Podcast - Noticias @Cosmere16Pod
+    - paragraph: Se confirma el Kickstarter del libro de cuentos de Hoid para marzo de 2026
+  - link "reply Responder en Twitter 1973451224507883641":
+    - /url: https://twitter.com/intent/tweet?in_reply_to=1973451224507883641&related=cosmere_es
+    - img "reply"
+    - text: Responder en Twitter 1973451224507883641
+  - link "Retuitear en Twitter 1973451224507883641 6":
+    - /url: https://twitter.com/intent/retweet?tweet_id=1973451224507883641&related=cosmere_es
+  - link "Dar me gusta en Twitter 1973451224507883641 87":
+    - /url: https://twitter.com/intent/like?tweet_id=1973451224507883641&related=cosmere_es
+  - link "Twitter 1973451224507883641":
+    - /url: https://twitter.com/cosmere_es/status/1973451224507883641
+  - link "cosmere_es":
+    - /url: https://twitter.com/cosmere_es
+    - img "cosmere_es"
+  - link "Cosmere.es":
+    - /url: https://twitter.com/cosmere_es
+  - link "@cosmere_es":
+    - /url: https://twitter.com/cosmere_es
+  - text: ·
+  - link "1 Oct":
+    - /url: https://twitter.com/cosmere_es/status/1973444067779551456
+  - img
+  - paragraph: Gracias Taberna Sexy por invitarme a charlar, dejarme soltar tonterías sobre uno de los libros más divertidos que he leído en muchísimo tiempo y, de paso, pasar un rato genial!
+  - 'link "La Taberna del Balrog - #SalitreYCenizas @TabernaBalrog Ya tenéis la pedazo de charla que tuve el placer de disfrutar junto a Ángel de @Cosmere_es de este pedazo de libro. CARL EL MAZMORRERO de Matt Dinniman publicado por @NovaCiFi. La primera parte es sin spoilers! Os lo dejo en el comentario."':
+    - /url: https://twitter.com/TabernaBalrog/status/1973404750499520993
+    - text: "La Taberna del Balrog - #SalitreYCenizas @TabernaBalrog"
+    - paragraph: Ya tenéis la pedazo de charla que tuve el placer de disfrutar junto a Ángel de @Cosmere_es de este pedazo de libro. CARL EL MAZMORRERO de Matt Dinniman publicado por @NovaCiFi. La primera parte es sin spoilers! Os lo dejo en el comentario.
+  - link "reply Responder en Twitter 1973444067779551456":
+    - /url: https://twitter.com/intent/tweet?in_reply_to=1973444067779551456&related=cosmere_es
+    - img "reply"
+    - text: Responder en Twitter 1973444067779551456
+  - link "Retuitear en Twitter 1973444067779551456 1":
+    - /url: https://twitter.com/intent/retweet?tweet_id=1973444067779551456&related=cosmere_es
+  - link "Dar me gusta en Twitter 1973444067779551456 25":
+    - /url: https://twitter.com/intent/like?tweet_id=1973444067779551456&related=cosmere_es
+  - link "Twitter 1973444067779551456":
+    - /url: https://twitter.com/cosmere_es/status/1973444067779551456
+  - link "cosmere_es":
+    - /url: https://twitter.com/cosmere_es
+    - img "cosmere_es"
+  - link "Cosmere.es":
+    - /url: https://twitter.com/cosmere_es
+  - link "@cosmere_es":
+    - /url: https://twitter.com/cosmere_es
+  - text: ·
+  - link "21 Sep":
+    - /url: https://twitter.com/cosmere_es/status/1969801275505254417
+  - img
+  - paragraph:
+    - text: "¡No puedes tener mi dolor, pero sí mi Wallpaper! Aquí está la portada animada de Viento y Verdad: . Disponible en"
+    - link "http://cosmere.es/descargas":
+      - /url: http://cosmere.es/descargas
+    - text: . Si os gusta, recordad que también podéis conseguir una lámina en la web de Michael Whelan!
+  - link "reply Responder en Twitter 1969801275505254417":
+    - /url: https://twitter.com/intent/tweet?in_reply_to=1969801275505254417&related=cosmere_es
+    - img "reply"
+    - text: Responder en Twitter 1969801275505254417
+  - link "Retuitear en Twitter 1969801275505254417 17":
+    - /url: https://twitter.com/intent/retweet?tweet_id=1969801275505254417&related=cosmere_es
+  - link "Dar me gusta en Twitter 1969801275505254417 116":
+    - /url: https://twitter.com/intent/like?tweet_id=1969801275505254417&related=cosmere_es
+  - link "Twitter 1969801275505254417":
+    - /url: https://twitter.com/cosmere_es/status/1969801275505254417
+  - link "cosmere_es":
+    - /url: https://twitter.com/cosmere_es
+    - img "cosmere_es"
+  - link "Cosmere.es":
+    - /url: https://twitter.com/cosmere_es
+  - link "@cosmere_es":
+    - /url: https://twitter.com/cosmere_es
+  - text: ·
+  - link "27 Ago":
+    - /url: https://twitter.com/cosmere_es/status/1960706472746344536
+  - img
+  - paragraph:
+    - text: ¡La edición con cantos pintados de Nacidos de la Bruma tiene muy buena pinta! Tenemos ganas de ver ese estuche
+    - link "@GigameshTienda":
+      - /url: https://twitter.com/GigameshTienda
+    - text: <_<
+  - link "Cosmere 16 - Podcast - Noticias @Cosmere16Pod Ya disponible para reservar el estuche con la trilogía original de Nacidos de la Bruma con los cantos tintados en @GigameshTienda Recordad que su salida es el 20 de noviembre Link en el post de abajo":
+    - /url: https://twitter.com/Cosmere16Pod/status/1960625637728649562
+    - text: Cosmere 16 - Podcast - Noticias @Cosmere16Pod
+    - paragraph: Ya disponible para reservar el estuche con la trilogía original de Nacidos de la Bruma con los cantos tintados en @GigameshTienda Recordad que su salida es el 20 de noviembre Link en el post de abajo
+  - link "reply Responder en Twitter 1960706472746344536":
+    - /url: https://twitter.com/intent/tweet?in_reply_to=1960706472746344536&related=cosmere_es
+    - img "reply"
+    - text: Responder en Twitter 1960706472746344536
+  - link "Retuitear en Twitter 1960706472746344536 4":
+    - /url: https://twitter.com/intent/retweet?tweet_id=1960706472746344536&related=cosmere_es
+  - link "Dar me gusta en Twitter 1960706472746344536 26":
+    - /url: https://twitter.com/intent/like?tweet_id=1960706472746344536&related=cosmere_es
+  - link "Twitter 1960706472746344536":
+    - /url: https://twitter.com/cosmere_es/status/1960706472746344536
+  - link "Load More":
+    - /url: javascript:void(0);
+  - heading "E Redes" [level=2]
+  - list:
+    - listitem:
+      - link "Youtube ":
+        - /url: https://www.youtube.com/c/cosmere_es
+    - listitem:
+      - link "Instagram ":
+        - /url: https://www.instagram.com/cosmere_es/
+    - listitem:
+      - link "Twitter ":
+        - /url: https://twitter.com/Cosmere_es
+    - listitem:
+      - link "Patreon ":
+        - /url: https://www.patreon.com/cosmere_es
+  - heading "Webs afiliadas" [level=4]
+  - heading "17SHARD" [level=6]:
+    - link "17SHARD":
+      - /url: https://www.17thshard.com
+  - heading "HUIJI-WIKI" [level=6]:
+    - link "HUIJI-WIKI":
+      - /url: https://coppermind.huijiwiki.com/wiki/首页#
+  - heading "Archivos" [level=5]
+  - text: Archivos
+  - combobox "Archivos":
+    - option "Elegir el mes" [selected]
+    - option "diciembre 2024"
+    - option "noviembre 2024"
+    - option "octubre 2024"
+    - option "septiembre 2024"
+    - option "agosto 2024"
+    - option "julio 2024"
+    - option "abril 2024"
+    - option "marzo 2024"
+    - option "diciembre 2023"
+    - option "noviembre 2023"
+    - option "octubre 2023"
+    - option "septiembre 2023"
+    - option "julio 2023"
+    - option "junio 2023"
+    - option "abril 2023"
+    - option "marzo 2023"
+    - option "enero 2023"
+    - option "diciembre 2022"
+    - option "noviembre 2022"
+    - option "octubre 2022"
+    - option "septiembre 2022"
+    - option "agosto 2022"
+    - option "abril 2022"
+    - option "marzo 2022"
+    - option "febrero 2022"
+    - option "enero 2022"
+    - option "diciembre 2021"
+    - option "noviembre 2021"
+    - option "octubre 2021"
+    - option "septiembre 2021"
+    - option "julio 2021"
+    - option "junio 2021"
+    - option "mayo 2021"
+    - option "abril 2021"
+    - option "marzo 2021"
+    - option "febrero 2021"
+    - option "diciembre 2020"
+    - option "noviembre 2020"
+    - option "octubre 2020"
+    - option "septiembre 2020"
+    - option "agosto 2020"
+    - option "julio 2020"
+    - option "junio 2020"
+    - option "mayo 2020"
+    - option "abril 2020"
+    - option "marzo 2020"
+    - option "febrero 2020"
+    - option "enero 2020"
+    - option "diciembre 2019"
+    - option "noviembre 2019"
+    - option "octubre 2019"
+    - option "septiembre 2019"
+    - option "agosto 2019"
+    - option "julio 2019"
+    - option "junio 2019"
+    - option "mayo 2019"
+    - option "abril 2019"
+    - option "enero 2019"
+    - option "diciembre 2018"
+    - option "noviembre 2018"
+    - option "agosto 2018"
+    - option "julio 2018"
+    - option "junio 2018"
+    - option "mayo 2018"
+    - option "abril 2018"
+    - option "febrero 2018"
+    - option "enero 2018"
+    - option "diciembre 2017"
+    - option "noviembre 2017"
+    - option "octubre 2017"
+    - option "septiembre 2017"
+    - option "agosto 2017"
+    - option "julio 2017"
+    - option "junio 2017"
+    - option "mayo 2017"
+  - heading "E COSMERE.ES" [level=1]
+  - heading "SUSCRÍBETE A NUESTRO BOLETÍN" [level=3]:
+    - link "SUSCRÍBETE A NUESTRO BOLETÍN":
+      - /url: https://cosmere.es/suscripcion-boletin-web/
+  - link:
+    - /url: https://cosmere.es/
+  - list:
+    - listitem:
+      - link "Política de Cookies":
+        - /url: https://cosmere.es/politica-de-cookies/
+    - listitem:
+      - link "Política de Privacidad / Aviso legal":
+        - /url: https://cosmere.es/politica-de-privacidad-y-aviso-legal/
+  - list:
+    - listitem: © 2021 Cosmere.es Todos los derechos reservados
+  - list:
+    - listitem:
+      - link "Instagram ":
+        - /url: https://www.instagram.com/cosmere_es/
+    - listitem:
+      - link "Twitter ":
+        - /url: https://twitter.com/Cosmere_es
+    - listitem:
+      - link "Youtube ":
+        - /url: https://www.youtube.com/c/cosmere_es
+    - listitem:
+      - link "Patreon ":
+        - /url: https://www.patreon.com/cosmere_es
+    - listitem:
+      - link "Discord ":
+        - /url: https://discord.gg/KuVRdF2
+  - list:
+    - listitem: "Contacto: info@cosmere.es"
+- text: desktop
+- document:
+  - paragraph: ESTA WEB UTILIZA COOKIES PARA OFRECERTE LA MEJOR EXPERIENCIA
+  - link "Aceptar":
+    - /url: "#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6InllcyJ9"
+  - link "Rechazar":
+    - /url: https://cosmere.es/politica-de-cookies/
+```
